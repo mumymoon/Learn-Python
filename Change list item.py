@@ -1,5 +1,4 @@
 spam=['a','b','c','d']
-
 def dot(p):
     for i in range(len(p)):
         if i+1<len(p):
